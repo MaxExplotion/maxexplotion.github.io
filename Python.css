@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/python-coding-mistakes.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/images/python-coding-mistakes.jpg");
   background-position: 50% 50%;
 }
 
@@ -75,7 +75,7 @@
 }
 
 .u-section-2 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/83c93ee39449860ec2b914979307032ab6f83d206b92b43acda83ba1bcafd006cf61b0a0532fccbcb03233a2e7ff55cde1c5b34003e916820a7fe1_1280.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("/images/83c93ee39449860ec2b914979307032ab6f83d206b92b43acda83ba1bcafd006cf61b0a0532fccbcb03233a2e7ff55cde1c5b34003e916820a7fe1_1280.png");
   background-position: 50% 50%;
 }
 
